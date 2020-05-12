@@ -1,0 +1,9 @@
+/* Add your custom extension styling here */
+
+.panel-tray {
+    spacing: 10px;
+}
+
+.tray-button {
+    height: 24px;
+}

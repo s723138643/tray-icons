@@ -1,0 +1,8 @@
+{
+  "name": "Tray Icons",
+  "description": "Display tray icons in panel",
+  "uuid": "tray-icons@s723138643.github.com",
+  "shell-version": [
+    "3.36"
+  ]
+}
